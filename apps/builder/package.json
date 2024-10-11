@@ -81,7 +81,7 @@
     "bcp-47": "^2.1.0",
     "change-case": "^5.0.2",
     "colord": "^2.9.3",
-    "cookie": "^0.6.0",
+    "cookie": "^0.7.0",
     "date-fns": "^2.30.0",
     "debug": "^4.3.4",
     "detect-font": "^0.1.5",
